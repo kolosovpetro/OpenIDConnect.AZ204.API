@@ -81,3 +81,9 @@ Out solution has the following architecture
 
 - Configure Enterprise app roles
     - Go to: `Enterprise apps -> MembersApiApp -> Assign roles -> Assign readonly role to your account`
+
+- Launch postman request and validate it
+
+## Configure second API
+
+- Configure same way as you did for the first one
