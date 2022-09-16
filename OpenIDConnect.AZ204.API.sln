@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIDConnect.AZ204.OperationsAgent", "OpenIDConnect.AZ204.OperationsAgent\OpenIDConnect.AZ204.OperationsAgent.csproj", "{BF911A1F-8410-420B-9B43-3147EF669CB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{B3975438-B419-42EA-A774-F61B70F84B95}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{9EFE55D0-BC33-4E2C-AAEF-EDDBA649BCA6}"
+	ProjectSection(SolutionItems) = preProject
+		img\01_architrcture.PNG = img\01_architrcture.PNG
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIDConnect.AZ204.Members", "OpenIDConnect.AZ204.Members\OpenIDConnect.AZ204.Members.csproj", "{6A5140D3-A999-4E1B-B9AF-C2331317027A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF911A1F-8410-420B-9B43-3147EF669CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF911A1F-8410-420B-9B43-3147EF669CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF911A1F-8410-420B-9B43-3147EF669CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF911A1F-8410-420B-9B43-3147EF669CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5140D3-A999-4E1B-B9AF-C2331317027A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5140D3-A999-4E1B-B9AF-C2331317027A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5140D3-A999-4E1B-B9AF-C2331317027A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5140D3-A999-4E1B-B9AF-C2331317027A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
