@@ -58,7 +58,7 @@ Out solution has the following architecture
 ## Configure app registration for Postman
 
 - Create AD app registration using Azure Portal: `PostmanClientApp`
-- Client ID: `31826fda-538d-4e09-8a67-e973c703a1c9`
+- Client ID: `03e92f38-fb5f-4841-9fc7-506cb3af48f7`
 - Add Platform: `App registrations -> PostmanClientApp -> Authentication -> Add Platform`
     - Type: `Web app`
     - Redirect URI: `https://oauth.pstmn.io/v1/callback`
